@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 import fetch from 'node-fetch'
-import axios from 'axios'
+import axios from 'axis'
 
 
 global.owner = [
